@@ -1,0 +1,86 @@
+{
+  "name": "comporta-se · legenda interativa",
+  "version": 1,
+  "language": "pt-BR",
+  "reference_video": "outputs/video-comporta-se-legenda-interativa.mp4",
+  "brand": {
+    "name": "comporta-se",
+    "logo": "assets/logo.png",
+    "palette": {
+      "orange": "#F26A2E",
+      "peach": "#F6C3A5",
+      "soft_yellow": "#F5E2A8",
+      "lilac": "#C9C0DF",
+      "graphite": "#292826"
+    },
+    "logo_position": "top_left"
+  },
+  "captions": {
+    "enabled": true,
+    "format": "uppercase",
+    "font": "fonts/ComportaCaption.ttf",
+    "font_family": "Comporta Caption",
+    "words_per_group_max": 4,
+    "lines_max": 2,
+    "position": "center_below_face",
+    "font_size_at_832px_height": 36,
+    "color": "#FFFFFF",
+    "outline": "#292826",
+    "active_word_background": "#C9C0DF",
+    "keyword_background": "#F5E2A8",
+    "active_word_color": "#292826",
+    "word_synchronized": true,
+    "entry_animation": "subtle_pop",
+    "keep_original_meaning": true
+  },
+  "graphics": {
+    "purpose": "illustrate the subject exactly when it is mentioned",
+    "simultaneous_max": 1,
+    "suggested_max_per_35_seconds": 3,
+    "style": "minimal animated outline icons in brand colors",
+    "position": "lower_safe_area",
+    "duration_seconds_range": [
+      1,
+      3
+    ],
+    "avoid": [
+      "large information panels",
+      "duplicate text cards",
+      "decorations unrelated to speech",
+      "covering face or captions"
+    ]
+  },
+  "cuts": {
+    "shorten_long_pauses": true,
+    "retain_complete_phrases": true,
+    "gentle_punch_ins": true,
+    "no_speed_change_by_default": true
+  },
+  "audio": {
+    "preserve_voice": true,
+    "background_music": "soft original or appropriately licensed instrumental",
+    "duck_music_under_speech": true,
+    "sound_effects": "quiet, sparse, synchronized with graphic entrances",
+    "integrated_loudness_target_lufs": -17,
+    "true_peak_ceiling_dbtp": -1.5
+  },
+  "outro": {
+    "duration_seconds": 3,
+    "brand_colors": true,
+    "short_contextual_question": true
+  },
+  "export": {
+    "container": "mp4",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "fps": 30,
+    "resolution": "preserve source detail; adapt layout to input dimensions",
+    "faststart": true,
+    "preserve_previous_versions": true
+  },
+  "delivery": {
+    "preferred": "GitHub repository lucaslowprog/mainon, outputs directory",
+    "publish_only_finished_export": true,
+    "do_not_upload_original_or_reference_by_default": true
+  }
+}
