@@ -1,8 +1,8 @@
 {
   "name": "comporta-se · legenda interativa",
-  "version": 1,
+  "version": 2,
   "language": "pt-BR",
-  "reference_video": "outputs/video-comporta-se-legenda-interativa.mp4",
+  "reference_video": "outputs/video-comporta-se-aldrem-padrao.mp4",
   "brand": {
     "name": "comporta-se",
     "logo": "assets/logo.png",
@@ -36,7 +36,7 @@
   "graphics": {
     "purpose": "illustrate the subject exactly when it is mentioned",
     "simultaneous_max": 1,
-    "suggested_max_per_35_seconds": 3,
+    "suggested_max_per_35_seconds": 6,
     "style": "minimal animated outline icons in brand colors",
     "position": "lower_safe_area",
     "duration_seconds_range": [
@@ -48,7 +48,8 @@
       "duplicate text cards",
       "decorations unrelated to speech",
       "covering face or captions"
-    ]
+    ],
+    "density": "more speech-linked cues, without simultaneous accumulation"
   },
   "cuts": {
     "shorten_long_pauses": true,
@@ -82,5 +83,13 @@
     "preferred": "GitHub repository lucaslowprog/mainon, outputs directory",
     "publish_only_finished_export": true,
     "do_not_upload_original_or_reference_by_default": true
-  }
+  },
+  "known_speakers": [
+    {
+      "first_name": "Aldrem",
+      "context": "apresentador deste canal, confirmado pelo usuário",
+      "common_transcription_error": "Aldrin",
+      "note": "Usar Aldrem para este apresentador. Não aplicar a outros falantes nem inferir sobrenome."
+    }
+  ]
 }

@@ -1,16 +1,18 @@
 # Padrão de edição da comporta-se
 
-Aplicar por padrão aos novos vídeos enviados neste projeto. Pedidos específicos do usuário prevalecem. Referência de formato: `../outputs/video-comporta-se-legenda-interativa.mp4`. Configuração estruturada: `padrao.json`.
+Aplicar por padrão aos novos vídeos enviados neste projeto. Pedidos específicos do usuário prevalecem. Referência de formato: `../outputs/video-comporta-se-aldrem-padrao.mp4`. Configuração estruturada: `padrao.json`.
 
 ## Legendas e ritmo
 
 Legendas em português, caixa alta, até quatro palavras por grupo e duas linhas. Fonte Comporta Caption (DM Sans Black), texto branco com contorno grafite. Destacar a palavra falada com fundo lilás; palavras importantes com sol suave. Posicionar abaixo do rosto, na região central. Usar entrada suave e destaque sincronizado por palavra. Ajustar todas as medidas proporcionalmente à resolução e conferir em tamanho de celular.
 
+O primeiro nome do apresentador deste canal é **Aldrem**, confirmado pelo usuário. Corrigir o erro de transcrição “Aldrin” para este apresentador. Não inferir sobrenomes nem aplicar essa substituição a outros falantes.
+
 Transcrever cada novo vídeo e revisar nomes, termos e trechos incertos. Criar os tempos a partir do áudio do novo material. Fazer cortes leves em pausas, com margem para respiração, e remontar os tempos depois dos cortes. Preservar frases, voz, intenção e ordem das ideias. Não acelerar a fala por padrão.
 
 ## Efeitos visuais
 
-Usar poucos grafismos vinculados ao que foi realmente dito. Em aproximadamente 35 segundos, começar com até três entradas, uma por vez: por exemplo, bicicleta quando mencionar pedalar, árvore ao falar de plantar e violão quando mencionar música. Adaptar os ícones aos assuntos de cada vídeo; não repetir automaticamente esses objetos.
+Usar mais grafismos vinculados ao que foi realmente dito, sem acumular elementos. Em aproximadamente 35 segundos, tomar como referência cerca de seis entradas, uma por vez e apenas quando houver conexão clara: conversa na menção ao canal, foco ao falar de presença, bicicleta quando mencionar pedalar, árvore ao falar de plantar, violão ao mencionar música e porta ao falar de oportunidades. Não usar a contagem como cota; adaptar ao conteúdo e ao ritmo. Adaptar os ícones aos assuntos de cada vídeo; não repetir automaticamente esses objetos.
 
 Não colocar caixas de informações, rótulos extras ou diagramas em todos os momentos. A legenda é o elemento principal. Manter espaço em volta do rosto e do texto. Usar o logo no alto à esquerda. Encerrar com até três segundos nas cores da marca e uma pergunta curta ligada ao assunto.
 
