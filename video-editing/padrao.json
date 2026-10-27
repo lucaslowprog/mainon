@@ -1,6 +1,6 @@
 {
   "name": "comporta-se · legenda interativa",
-  "version": 2,
+  "version": 3,
   "language": "pt-BR",
   "reference_video": "outputs/video-comporta-se-aldrem-padrao.mp4",
   "brand": {
@@ -91,5 +91,27 @@
       "common_transcription_error": "Aldrin",
       "note": "Usar Aldrem para este apresentador. Não aplicar a outros falantes nem inferir sobrenome."
     }
-  ]
+  ],
+  "communication": {
+    "scope": "conteúdos da comporta-se; não aplicar automaticamente a outras marcas",
+    "voice": "usar verbos no imperativo e convites concretos à ação em títulos, chamadas e novas falas",
+    "imperative_examples": [
+      "Comporte-se.",
+      "Sinta.",
+      "Aja.",
+      "Atue.",
+      "Observe.",
+      "Experimente."
+    ],
+    "avoid_terms": [
+      "mente",
+      "ansiedade",
+      "consciência"
+    ],
+    "when_conscientizar_is_needed": "usar como ação; exemplo de imperativo: Conscientize-se.",
+    "footer_rule": "não reutilizar o antigo rodapé nominal; preferir um convite contextual no imperativo, sem criar um novo slogan oficial",
+    "precedence": "estas anotações do usuário prevalecem sobre textos anteriores do manual e dos helpers",
+    "authenticity": "não alterar a legenda para atribuir ao falante palavras que não foram ditas; quando necessário, revisar o roteiro antes de gravar",
+    "claims": "não afirmar que o estilo estimula o cérebro sem evidência; aplicar como preferência editorial"
+  }
 }

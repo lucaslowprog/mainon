@@ -2,6 +2,18 @@
 
 Aplicar por padrão aos novos vídeos enviados neste projeto. Pedidos específicos do usuário prevalecem. Referência de formato: `../outputs/video-comporta-se-aldrem-padrao.mp4`. Configuração estruturada: `padrao.json`.
 
+## Linguagem da marca — atualização do usuário
+
+Aplicar a novas peças da **comporta-se**, sem transferir automaticamente para outras marcas. Estas orientações prevalecem sobre o vocabulário dos materiais e do manual anteriores.
+
+- Usar verbos no imperativo em títulos, chamadas, convites e novas falas: **Comporte-se. Sinta. Aja. Atue. Observe. Experimente.**
+- Evitar os termos **mente**, **ansiedade** e **consciência** na comunicação final da marca.
+- Se a ideia de conscientizar for necessária, apresentá-la como ação; por exemplo, **Conscientize-se.**
+- Não reaproveitar o antigo rodapé nominal que contém um dos termos acima. Preferir um convite contextual no imperativo; não tratar uma frase nova como slogan oficial sem indicação do usuário.
+- Revisar títulos, legendas, rodapés, telas finais e textos dos helpers antes de exportar. Os vídeos antigos permanecem preservados; suas frases não definem a regra atual.
+- Preservar a fidelidade à gravação: não trocar palavras na legenda como se o apresentador tivesse dito outra coisa. Revisar o roteiro ou combinar a alteração de um trecho quando necessário.
+- A preferência é editorial; não acrescentar alegações sobre estimulação cerebral.
+
 ## Legendas e ritmo
 
 Legendas em português, caixa alta, até quatro palavras por grupo e duas linhas. Fonte Comporta Caption (DM Sans Black), texto branco com contorno grafite. Destacar a palavra falada com fundo lilás; palavras importantes com sol suave. Posicionar abaixo do rosto, na região central. Usar entrada suave e destaque sincronizado por palavra. Ajustar todas as medidas proporcionalmente à resolução e conferir em tamanho de celular.
