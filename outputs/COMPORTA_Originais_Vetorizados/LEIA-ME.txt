@@ -1,0 +1,7 @@
+COMPORTA — seis artes vetorizadas por rastreamento dos contornos da primeira imagem.
+As letras foram preservadas a partir da imagem; nao foram redigitadas com outra fonte.
+SVG e PDF: vetores com fundo branco, uma arte por arquivo; sem imagens raster incorporadas e sem fontes externas.
+PNG: fundo branco, 600 ppi nos tamanhos indicados em validacao.json.
+Cores planas aproximadas da primeira imagem: laranja #F56326, grafite #252523. Texturas e variacoes de luz da imagem foram uniformizadas para impressao.
+Os contornos cinza de apresentacao dos adesivos nao fazem parte da arte.
+A vetorizacao parte de uma referencia raster e conserva os desenhos dessa referencia, inclusive suas pequenas irregularidades.
