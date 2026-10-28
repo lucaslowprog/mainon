@@ -1,15 +1,17 @@
-# Padrão de edição da comporta-se
+# Padrão de edição da COMPORTA
 
+
+Nome oficial atualizado pelo usuário: **COMPORTA**, em caixa alta e sem ponto final. Usar nos novos materiais. O verbo “COMPORTE-SE” no rodapé continua sendo um convite à ação, não o nome da marca.
 Aplicar por padrão aos novos vídeos enviados neste projeto. Pedidos específicos do usuário prevalecem. Referência de formato: `../outputs/video-comporta-se-aldrem-padrao.mp4`. Configuração estruturada: `padrao.json`.
 
 ## Linguagem da marca — atualização do usuário
 
-Aplicar a novas peças da **comporta-se**, sem transferir automaticamente para outras marcas. Estas orientações prevalecem sobre o vocabulário dos materiais e do manual anteriores.
+Aplicar a novas peças da **COMPORTA**, sem transferir automaticamente para outras marcas. Estas orientações prevalecem sobre o vocabulário dos materiais e do manual anteriores.
 
 - Usar verbos no imperativo em títulos, chamadas, convites e novas falas: **Comporte-se. Sinta. Aja. Atue. Observe. Experimente.**
 - Evitar os termos **mente**, **ansiedade** e **consciência** na comunicação final da marca.
 - Se a ideia de conscientizar for necessária, apresentá-la como ação; por exemplo, **Conscientize-se.**
-- Usar sempre, na parte inferior dos vídeos da comporta-se, o rodapé solicitado: **COMPORTE-SE · SINTA · AJA · ATUE**. São as formas no imperativo dos verbos indicados. Aplicar palavras em laranja (#F26A2E), com fundo transparente sobre o vídeo, conforme a atualização mais recente do usuário; preservar a área segura e o espaço das legendas. Substituir o antigo rodapé nominal da referência.
+- Usar sempre, na parte inferior dos vídeos da COMPORTA, o rodapé solicitado: **COMPORTE-SE · SINTA · AJA · ATUE**. São as formas no imperativo dos verbos indicados. Aplicar palavras em laranja (#F26A2E), com fundo transparente sobre o vídeo, conforme a atualização mais recente do usuário; preservar a área segura e o espaço das legendas. Substituir o antigo rodapé nominal da referência.
 - Revisar títulos, legendas, rodapés, telas finais e textos dos helpers antes de exportar. Os vídeos antigos permanecem preservados; suas frases não definem a regra atual.
 - Preservar a fidelidade à gravação: não trocar palavras na legenda como se o apresentador tivesse dito outra coisa. Revisar o roteiro ou combinar a alteração de um trecho quando necessário.
 - A preferência é editorial; não acrescentar alegações sobre estimulação cerebral.

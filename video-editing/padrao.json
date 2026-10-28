@@ -1,10 +1,10 @@
 {
-  "name": "comporta-se · legenda interativa",
-  "version": 5,
+  "name": "COMPORTA · legenda interativa",
+  "version": 6,
   "language": "pt-BR",
   "reference_video": "outputs/video-comporta-se-aldrem-padrao.mp4",
   "brand": {
-    "name": "comporta-se",
+    "name": "COMPORTA",
     "logo": "assets/logo.png",
     "palette": {
       "orange": "#F26A2E",
@@ -24,7 +24,8 @@
       "avoid_caption_overlap": true,
       "background": "transparent",
       "text_color": "#F26A2E"
-    }
+    },
+    "display_name_rule": "Usar COMPORTA, em caixa alta e sem ponto final, conforme correção mais recente do usuário."
   },
   "captions": {
     "enabled": true,
@@ -105,7 +106,7 @@
     }
   ],
   "communication": {
-    "scope": "conteúdos da comporta-se; não aplicar automaticamente a outras marcas",
+    "scope": "conteúdos da COMPORTA; não aplicar automaticamente a outras marcas",
     "voice": "usar verbos no imperativo e convites concretos à ação em títulos, chamadas e novas falas",
     "imperative_examples": [
       "Comporte-se.",
@@ -121,7 +122,7 @@
       "consciência"
     ],
     "when_conscientizar_is_needed": "usar como ação; exemplo de imperativo: Conscientize-se.",
-    "footer_rule": "Usar sempre na parte inferior dos vídeos da comporta-se: COMPORTE-SE · SINTA · AJA · ATUE. São formas no imperativo, conforme pedido do usuário; manter legibilidade e distância das legendas e dos controles da plataforma.",
+    "footer_rule": "Usar sempre na parte inferior dos vídeos da COMPORTA: COMPORTE-SE · SINTA · AJA · ATUE. São formas no imperativo, conforme pedido do usuário; manter legibilidade e distância das legendas e dos controles da plataforma.",
     "precedence": "estas anotações do usuário prevalecem sobre textos anteriores do manual e dos helpers",
     "authenticity": "não alterar a legenda para atribuir ao falante palavras que não foram ditas; quando necessário, revisar o roteiro antes de gravar",
     "claims": "não afirmar que o estilo estimula o cérebro sem evidência; aplicar como preferência editorial"
