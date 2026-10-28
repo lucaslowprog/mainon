@@ -1,6 +1,6 @@
 {
   "name": "comporta-se · legenda interativa",
-  "version": 3,
+  "version": 4,
   "language": "pt-BR",
   "reference_video": "outputs/video-comporta-se-aldrem-padrao.mp4",
   "brand": {
@@ -13,7 +13,16 @@
       "lilac": "#C9C0DF",
       "graphite": "#292826"
     },
-    "logo_position": "top_left"
+    "logo_position": "top_left",
+    "logo_enabled": false,
+    "footer": {
+      "enabled": true,
+      "text": "COMPORTE-SE · SINTA · AJA · ATUE",
+      "position": "bottom_safe_area",
+      "style": "small graphite uppercase text, segmented peach line with orange accent above",
+      "always_on_brand_videos": true,
+      "avoid_caption_overlap": true
+    }
   },
   "captions": {
     "enabled": true,
@@ -77,7 +86,8 @@
     "fps": 30,
     "resolution": "preserve source detail; adapt layout to input dimensions",
     "faststart": true,
-    "preserve_previous_versions": true
+    "preserve_previous_versions": true,
+    "visible_dates": false
   },
   "delivery": {
     "preferred": "GitHub repository lucaslowprog/mainon, outputs directory",
@@ -109,7 +119,7 @@
       "consciência"
     ],
     "when_conscientizar_is_needed": "usar como ação; exemplo de imperativo: Conscientize-se.",
-    "footer_rule": "não reutilizar o antigo rodapé nominal; preferir um convite contextual no imperativo, sem criar um novo slogan oficial",
+    "footer_rule": "Usar sempre na parte inferior dos vídeos da comporta-se: COMPORTE-SE · SINTA · AJA · ATUE. São formas no imperativo, conforme pedido do usuário; manter legibilidade e distância das legendas e dos controles da plataforma.",
     "precedence": "estas anotações do usuário prevalecem sobre textos anteriores do manual e dos helpers",
     "authenticity": "não alterar a legenda para atribuir ao falante palavras que não foram ditas; quando necessário, revisar o roteiro antes de gravar",
     "claims": "não afirmar que o estilo estimula o cérebro sem evidência; aplicar como preferência editorial"

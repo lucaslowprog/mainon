@@ -9,7 +9,7 @@ Aplicar a novas peças da **comporta-se**, sem transferir automaticamente para o
 - Usar verbos no imperativo em títulos, chamadas, convites e novas falas: **Comporte-se. Sinta. Aja. Atue. Observe. Experimente.**
 - Evitar os termos **mente**, **ansiedade** e **consciência** na comunicação final da marca.
 - Se a ideia de conscientizar for necessária, apresentá-la como ação; por exemplo, **Conscientize-se.**
-- Não reaproveitar o antigo rodapé nominal que contém um dos termos acima. Preferir um convite contextual no imperativo; não tratar uma frase nova como slogan oficial sem indicação do usuário.
+- Usar sempre, na parte inferior dos vídeos da comporta-se, o rodapé solicitado: **COMPORTE-SE · SINTA · AJA · ATUE**. São as formas no imperativo dos verbos indicados. Aplicar texto grafite discreto e linha segmentada pêssego com detalhe laranja acima; preservar a área segura e o espaço das legendas. Substituir o antigo rodapé nominal da referência.
 - Revisar títulos, legendas, rodapés, telas finais e textos dos helpers antes de exportar. Os vídeos antigos permanecem preservados; suas frases não definem a regra atual.
 - Preservar a fidelidade à gravação: não trocar palavras na legenda como se o apresentador tivesse dito outra coisa. Revisar o roteiro ou combinar a alteração de um trecho quando necessário.
 - A preferência é editorial; não acrescentar alegações sobre estimulação cerebral.
@@ -26,7 +26,7 @@ Transcrever cada novo vídeo e revisar nomes, termos e trechos incertos. Criar o
 
 Usar mais grafismos vinculados ao que foi realmente dito, sem acumular elementos. Em aproximadamente 35 segundos, tomar como referência cerca de seis entradas, uma por vez e apenas quando houver conexão clara: conversa na menção ao canal, foco ao falar de presença, bicicleta quando mencionar pedalar, árvore ao falar de plantar, violão ao mencionar música e porta ao falar de oportunidades. Não usar a contagem como cota; adaptar ao conteúdo e ao ritmo. Adaptar os ícones aos assuntos de cada vídeo; não repetir automaticamente esses objetos.
 
-Não colocar caixas de informações, rótulos extras ou diagramas em todos os momentos. A legenda é o elemento principal. Manter espaço em volta do rosto e do texto. Usar o logo no alto à esquerda. Encerrar com até três segundos nas cores da marca e uma pergunta curta ligada ao assunto.
+Não colocar caixas de informações, rótulos extras ou diagramas em todos os momentos. A legenda é o elemento principal. Manter espaço em volta do rosto e do texto. Não exibir logo ou datas por padrão, conforme a revisão solicitada pelo usuário. Encerrar com até três segundos nas cores da marca e uma pergunta curta ligada ao assunto.
 
 ## Áudio
 
