@@ -1,6 +1,6 @@
 {
   "name": "comporta-se · legenda interativa",
-  "version": 4,
+  "version": 5,
   "language": "pt-BR",
   "reference_video": "outputs/video-comporta-se-aldrem-padrao.mp4",
   "brand": {
@@ -19,9 +19,11 @@
       "enabled": true,
       "text": "COMPORTE-SE · SINTA · AJA · ATUE",
       "position": "bottom_safe_area",
-      "style": "small graphite uppercase text, segmented peach line with orange accent above",
+      "style": "orange uppercase imperative words over the video, no background panel",
       "always_on_brand_videos": true,
-      "avoid_caption_overlap": true
+      "avoid_caption_overlap": true,
+      "background": "transparent",
+      "text_color": "#F26A2E"
     }
   },
   "captions": {
