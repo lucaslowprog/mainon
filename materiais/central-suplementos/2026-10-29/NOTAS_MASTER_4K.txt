@@ -1,0 +1,7 @@
+CENTRAL SUPLEMENTOS — MÁSTER VERTICAL 4K/60
+2160 × 3840, 60 fps, 15 segundos, 900 quadros, H.264 High Level 5.2, cores BT.709.
+Textos e elementos gráficos renderizados nativamente no tamanho do máster.
+Fundo ampliado a partir de fontes comprimidas. Os movimentos originais de 30 fps foram conservados por repetição de quadros na exportação a 60 fps; sem interpolação que deforme produtos. Não é captação nativa em 4K/60 e não recupera detalhe ausente.
+Para futuros materiais, gravar verticalmente em 4K/60 com boa iluminação e enviar originais em ZIP ou como documento.
+A versão Full HD anterior foi preservada. A plataforma de publicação pode recomprimir o vídeo.
+Sem trilha. Nenhum conteúdo publicado no Instagram.
