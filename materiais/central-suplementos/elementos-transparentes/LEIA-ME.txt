@@ -1,0 +1,8 @@
+CENTRAL — SOBREPOSIÇÃO TRANSPARENTE
+
+Central_Overlay_Transparente_4K.png: PNG RGBA, 2160 x 3840, fundo alfa zero. Sem sombra, degradê ou fundo preto.
+central-overlay.svg: versão vetorial editável dos elementos.
+
+Salvar o PNG original, não uma captura de tela. No Story, carregar o vídeo e adicionar este PNG pela figurinha Foto. O PNG mantém a transparência sobre o vídeo.
+Alguns visualizadores mostram as áreas transparentes em preto ou quadriculado; isso não significa fundo incorporado.
+A imagem PREVIA_TRANSPARENCIA.jpg usa um quadriculado somente para demonstrar a transparência e não deve ser usada como sobreposição.
