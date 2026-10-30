@@ -1,0 +1,17 @@
+CENTRAL SUPLEMENTOS — PURA VIDA — LEGENDAS
+30/10/2026
+
+Arquivo: Central_PuraVida_Legenda_Selecionavel.mp4
+Contém o vídeo e o áudio originais sem recodificação, mais uma faixa de legendas em português. A igualdade dos fluxos de vídeo e áudio foi conferida por SHA-256. Resolução mantida em 576 x 1024, duração de 31,133 segundos e cadência original próxima de 30 fps.
+
+IMPORTANTE SOBRE A EXIBIÇÃO
+Esta é uma legenda selecionável, não gravada permanentemente nos pixels. Abra em um player compatível, como VLC, e ative a faixa Português. O Instagram pode ignorar essa faixa. Esta versão, por isso, não é ainda a versão final com legenda sempre visível para publicação no Instagram.
+
+POR QUE A VERSÃO PARA INSTAGRAM ESTÁ PENDENTE
+O solicitante pediu exclusivamente a tipografia do Figma da Central. O nome da fonte e o peso ainda não foram confirmados, pois a referência não pôde ser consultada nesta sessão. Não foi usada uma fonte substituta para gravar texto na imagem. A fonte e o peso são necessários para renderizar a versão final no padrão da marca.
+
+EDIÇÃO
+Central_PuraVida_Legendas.srt contém o texto e os tempos, editáveis em editor de texto ou de vídeo. As legendas usam a narração escrita aprovada na conversa; não constituem uma transcrição do áudio original. Não foi adicionada uma locução. Os tempos distribuem esse texto pela duração e sequência visual e podem ser ajustados quando a locução for gravada.
+
+QUALIDADE
+Esta versão preserva integralmente os fluxos originais. Para gravar legendas permanentemente na imagem é necessário renderizar o vídeo; uma exportação de alta qualidade pode minimizar perdas, mas não é correto prometer nenhuma perda visual em toda recodificação. Ampliar para 4K não recupera detalhes ausentes do arquivo enviado.

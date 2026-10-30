@@ -1,0 +1,36 @@
+{
+  "v:0": {
+    "identico_ao_original": true,
+    "hash": "SHA256=437ce005b440386b88768d6b46fe63810cc6726ecba66b90561dbdb9609b0a72"
+  },
+  "a:0": {
+    "identico_ao_original": true,
+    "hash": "SHA256=639ba1a148842834b821d8f8351cddef37cfaa806e01763e389e22eab0df2a8a"
+  },
+  "arquivo": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 576,
+        "height": 1024,
+        "avg_frame_rate": "13995/467"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "avg_frame_rate": "0/0"
+      },
+      {
+        "codec_name": "mov_text",
+        "codec_type": "subtitle",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "31.133333"
+    }
+  }
+}
