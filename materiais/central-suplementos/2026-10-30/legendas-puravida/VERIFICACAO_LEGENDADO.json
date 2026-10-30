@@ -1,0 +1,56 @@
+{
+  "original": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_type": "video",
+        "width": 576,
+        "height": 1024,
+        "avg_frame_rate": "13995/467",
+        "nb_read_frames": "933"
+      },
+      {
+        "index": 1,
+        "codec_type": "audio",
+        "avg_frame_rate": "0/0",
+        "nb_read_frames": "1340"
+      }
+    ],
+    "format": {
+      "duration": "31.133333",
+      "size": "5142107"
+    }
+  },
+  "legendado": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_type": "video",
+        "width": 576,
+        "height": 1024,
+        "avg_frame_rate": "5598/187",
+        "nb_read_frames": "933"
+      },
+      {
+        "index": 1,
+        "codec_type": "audio",
+        "avg_frame_rate": "0/0",
+        "nb_read_frames": "1340"
+      }
+    ],
+    "format": {
+      "duration": "31.133333",
+      "size": "22928065"
+    }
+  },
+  "audio_identico": true,
+  "decodificacao_completa": "sem erros",
+  "fontes": {
+    "leitura": "Inter 700",
+    "chamada": "Barlow Condensed 900"
+  }
+}

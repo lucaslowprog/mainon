@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 576
+PlayResY: 1024
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Leitura,Inter,31,&H00FFFFFF,&H00FFFFFF,&H10000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,44,64,180,1
+Style: Chamada,Barlow Condensed,40,&H00FFFFFF,&H00FFFFFF,&H10000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,44,64,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:03.70,Leitura,,0,0,0,,Seu cuidado também merece\Nespaço na rotina.
+Dialogue: 0,0:00:03.70,0:00:06.20,Leitura,,0,0,0,,Cálcio, magnésio e vitamina C
+Dialogue: 0,0:00:06.20,0:00:09.80,Leitura,,0,0,0,,{\fs27}são algumas das opções Pura Vida\Nque você encontra na Central.
+Dialogue: 0,0:00:09.80,0:00:12.80,Leitura,,0,0,0,,Cada produto tem uma\Ncomposição diferente.
+Dialogue: 0,0:00:12.80,0:00:15.80,Leitura,,0,0,0,,Por isso, conhecer as opções\Ncom informação clara
+Dialogue: 0,0:00:15.80,0:00:18.40,Leitura,,0,0,0,,e atendimento próximo
+Dialogue: 0,0:00:18.40,0:00:21.50,Leitura,,0,0,0,,faz diferença na hora de\Nescolher.
+Dialogue: 0,0:00:21.50,0:00:25.50,Leitura,,0,0,0,,Quer saber mais sobre os\Nprodutos que aparecem aqui?
+Dialogue: 0,0:00:25.50,0:00:28.10,Chamada,,0,0,0,,CHAME NOSSA EQUIPE NO\NWHATSAPP.
+Dialogue: 0,0:00:28.10,0:00:31.00,Leitura,,0,0,0,,A gente conversa e apresenta\Nas opções para você.

@@ -1,0 +1,30 @@
+CENTRAL SUPLEMENTOS — CARROSSEL DE VITAMINAS
+
+6 cards em 4:5. Imagens para publicação: 1080 x 1350 pixels.
+
+ARQUIVO EDITÁVEL
+Abra Central_Carrossel_Vitaminas_EDITAVEL.pptx no PowerPoint. Cada card é um slide. Textos, chamada, degradê e fotografia são elementos separados.
+
+COMO TROCAR O FUNDO
+1. Abra Página Inicial > Organizar > Painel de Seleção.
+2. Selecione o item FOTO DE FUNDO — SUBSTITUIR do card desejado.
+3. Clique com o botão direito e escolha Alterar Imagem > De um Arquivo.
+4. Em Formato da Imagem, use Cortar > Preencher para ocupar todo o card sem distorção.
+5. Mantenha a foto na camada inferior; os textos e o contraste ficam por cima.
+6. Exporte todos os slides como PNG. Se a exportação variar em tamanho, mantenha a proporção 4:5; os PNGs incluídos já estão em 1080 x 1350.
+
+EDITE OS TEXTOS
+Clique nas caixas de título, destaque e explicação. Fonte usada: Barlow Condensed 900 nos títulos em caixa alta e Inter 700 nas explicações. Instale as fontes incluídas na pasta fontes antes de editar. Não use fontes substitutas. Pesos confirmados pelo solicitante em 30/10/2026: Barlow Condensed 900 e Inter 700.
+
+FOTOS E MARCA
+O fundo deste primeiro conjunto é uma imagem ilustrativa preparada a partir da referência Pura Vida fornecida. Substitua por suas fotos originais se precisar mostrar rótulos em detalhe. Os conteúdos C, D e B12 são educativos, não uma lista de SKUs com estoque confirmado. Não presumir que cada caixa contém essas três vitaminas.
+
+INTERAÇÃO E PUBLICAÇÃO
+Publique os arquivos 01 a 06 juntos, na ordem. As interações são deslizar, comentar e salvar; os cards não são botões interativos. A chamada final direciona para o WhatsApp no link da bio: confira esse link antes de publicar. O botão desenhado não abre uma conversa por si só no feed. A legenda está em LEGENDA.txt.
+
+FONTES DE APOIO AO CONTEÚDO
+NIH Office of Dietary Supplements:
+Vitamina C — https://ods.od.nih.gov/factsheets/VitaminC-Consumer/
+Vitamina D — https://ods.od.nih.gov/factsheets/VitaminD-Consumer/
+Vitamina B12 — https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/
+Links bibliográficos para conferência, sem alegar consulta online nesta sessão.

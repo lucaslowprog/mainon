@@ -1,0 +1,44 @@
+[
+  {
+    "title": "VITAMINAS:\nC, D\nOU B12?",
+    "label": "CADA UMA TEM SEU PAPEL.",
+    "body": "Conheça três vitaminas\ne participe da conversa.",
+    "cta": "Deslize para conhecer",
+    "kind": "cover"
+  },
+  {
+    "title": "VITAMINA\nC.",
+    "label": "COLÁGENO + FERRO",
+    "body": "Ajuda a formar colágeno, importante\npara a pele e outros tecidos.\nContribui para o sistema imune\ne melhora a absorção do ferro\ndos alimentos vegetais.",
+    "cta": "Você já sabia? Continue",
+    "kind": "info"
+  },
+  {
+    "title": "VITAMINA\nD.",
+    "label": "CÁLCIO + OSSOS",
+    "body": "Ajuda na absorção de cálcio e fósforo,\nimportantes para ossos e dentes.\nTambém participa do funcionamento\ndos músculos e do sistema imune.",
+    "cta": "Tem mais uma para conhecer",
+    "kind": "info"
+  },
+  {
+    "title": "VITAMINA\nB12.",
+    "label": "SANGUE + SISTEMA NERVOSO",
+    "body": "Participa da formação das células\nvermelhas do sangue e ajuda no\nfuncionamento do sistema nervoso.\nAtua também no metabolismo que permite\nao corpo usar a energia dos alimentos.",
+    "cta": "Qual delas chamou sua atenção?",
+    "kind": "info"
+  },
+  {
+    "title": "QUAL DELAS\nVOCÊ QUER\nENTENDER?",
+    "label": "C, D OU B12?",
+    "body": "Comente a letra ou o nome.\nSua dúvida pode virar o próximo post.",
+    "cta": "Salve para consultar depois",
+    "kind": "question"
+  },
+  {
+    "title": "PURA VIDA\nTEM NA\nCENTRAL.",
+    "label": "VITAMINAS E SUPLEMENTOS",
+    "body": "Conheça as opções da marca.\nConsulte apresentações e valores\npelo WhatsApp.",
+    "cta": "WhatsApp • link na bio",
+    "kind": "final"
+  }
+]
