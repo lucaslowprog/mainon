@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Motion,Inter,32,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:04.40,Motion,,0,0,0,,{\an7\pos(0,0)\p1\c&H161B1B&\alpha&H65&\fad(180,650)}m 0 0 l 720 0 720 1280 0 1280
+Dialogue: 1,0:00:00.22,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(151.8,345,109.8,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}C
+Dialogue: 1,0:00:00.30,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(214.5,345,172.5,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}O
+Dialogue: 1,0:00:00.39,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(279.7,345,237.7,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}M
+Dialogue: 1,0:00:00.48,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(358.1,345,316.1,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}P
+Dialogue: 1,0:00:00.56,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(413.2,345,371.2,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}O
+Dialogue: 1,0:00:00.64,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(478.4,345,436.4,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}R
+Dialogue: 1,0:00:00.73,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(534.2,345,492.2,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}T
+Dialogue: 1,0:00:00.82,0:00:04.20,Motion,,0,0,0,,{\an7\fs82\move(591.0,345,549.0,285,0,620)\frz-7\fscx75\fscy75\t(0,620,0.65,\frz0\fscx100\fscy100)\fad(120,450)\bord1\3a&H90&}A
+Dialogue: 1,0:00:00.40,0:00:04.10,Motion,,0,0,0,,{\an7\pos(60,403)\p1\c&HFFFFFF&\clip(60,403,60,407)\t(0,1000,0.6,\clip(60,403,660,407))\fad(120,400)}m 0 0 l 600 0 600 4 0 4
+Dialogue: 1,0:00:01.10,0:00:04.20,Motion,,0,0,0,,{\an7\fs22\fsp3\move(100,449,62,449,0,600)\fad(350,450)}PSICOTERAPIA ONLINE
+Dialogue: 1,0:00:14.05,0:00:15.75,Motion,,0,0,0,,{\an7\move(-90,95,36,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 3 3 3 3 70 0 70
+Dialogue: 1,0:00:14.05,0:00:15.75,Motion,,0,0,0,,{\an7\move(742,95,614,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 70 67 70 67 3 0 3
+Dialogue: 1,0:00:14.05,0:00:15.75,Motion,,0,0,0,,{\an7\move(-90,1115,36,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 3 0 3 67 70 67 70 70 0 70
+Dialogue: 1,0:00:14.05,0:00:15.75,Motion,,0,0,0,,{\an7\move(742,1115,614,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 67 0 l 70 0 70 70 0 70 0 67 67 67
+Dialogue: 1,0:00:26.55,0:00:28.25,Motion,,0,0,0,,{\an7\move(-90,95,36,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 3 3 3 3 70 0 70
+Dialogue: 1,0:00:26.55,0:00:28.25,Motion,,0,0,0,,{\an7\move(742,95,614,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 70 67 70 67 3 0 3
+Dialogue: 1,0:00:26.55,0:00:28.25,Motion,,0,0,0,,{\an7\move(-90,1115,36,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 3 0 3 67 70 67 70 70 0 70
+Dialogue: 1,0:00:26.55,0:00:28.25,Motion,,0,0,0,,{\an7\move(742,1115,614,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 67 0 l 70 0 70 70 0 70 0 67 67 67
+Dialogue: 1,0:00:37.55,0:00:39.25,Motion,,0,0,0,,{\an7\move(-90,95,36,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 3 3 3 3 70 0 70
+Dialogue: 1,0:00:37.55,0:00:39.25,Motion,,0,0,0,,{\an7\move(742,95,614,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 70 67 70 67 3 0 3
+Dialogue: 1,0:00:37.55,0:00:39.25,Motion,,0,0,0,,{\an7\move(-90,1115,36,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 3 0 3 67 70 67 70 70 0 70
+Dialogue: 1,0:00:37.55,0:00:39.25,Motion,,0,0,0,,{\an7\move(742,1115,614,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 67 0 l 70 0 70 70 0 70 0 67 67 67
+Dialogue: 1,0:00:55.05,0:00:56.75,Motion,,0,0,0,,{\an7\move(-90,95,36,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 3 3 3 3 70 0 70
+Dialogue: 1,0:00:55.05,0:00:56.75,Motion,,0,0,0,,{\an7\move(742,95,614,95,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 70 0 70 70 67 70 67 3 0 3
+Dialogue: 1,0:00:55.05,0:00:56.75,Motion,,0,0,0,,{\an7\move(-90,1115,36,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 0 0 l 3 0 3 67 70 67 70 70 0 70
+Dialogue: 1,0:00:55.05,0:00:56.75,Motion,,0,0,0,,{\an7\move(742,1115,614,1115,0,420)\p1\c&HFFFFFF&\alpha&H30&\fad(100,550)}m 67 0 l 70 0 70 70 0 70 0 67 67 67
+Dialogue: 0,0:00:41.00,0:00:46.50,Motion,,0,0,0,,{\an7\move(-580,875,38,875,0,650)\p1\c&H161B1B&\alpha&H55&\fad(100,450)}m 0 0 l 530 0 530 105 0 105
+Dialogue: 1,0:00:41.12,0:00:46.50,Motion,,0,0,0,,{\an7\fs36\move(-480,891,60,891,0,650)\fad(200,450)}COMPORTA
+Dialogue: 1,0:00:41.55,0:00:46.50,Motion,,0,0,0,,{\an7\fs18\fsp1\move(95,941,60,941,0,450)\fad(250,450)}PSICOTERAPIA ONLINE
+Dialogue: 1,0:01:15.00,0:01:21.60,Motion,,0,0,0,,{\an7\pos(64,435)\p1\c&HFFFFFF&\clip(64,435,64,439)\t(0,1000,0.55,\clip(64,435,656,439))\fad(250,250)}m 0 0 l 592 0 592 4 0 4
+Dialogue: 1,0:01:15.10,0:01:21.60,Motion,,0,0,0,,{\an5\fs82\move(360,584,360,530,0,900)\fscx85\fscy85\t(0,900,0.6,\fscx100\fscy100)\fad(250,300)}COMPORTA
+Dialogue: 1,0:01:16.00,0:01:21.60,Motion,,0,0,0,,{\an5\fs26\fsp2\move(360,661,360,625,0,700)\fad(400,300)}VAMOS CONVERSAR?
+Dialogue: 1,0:01:16.70,0:01:21.60,Motion,,0,0,0,,{\an5\fs19\alpha&H35&\move(360,731,360,710,0,650)\fad(300,300)}PSICOTERAPIA ONLINE

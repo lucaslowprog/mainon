@@ -1,0 +1,9 @@
+COMPORTA — MOTION V2
+
+A revisão amplia a animação visual: letras entram individualmente na abertura, com posição, escala e rotação animadas; linhas se desenham; molduras entram nas transições; assinatura em faixa lateral aparece no meio; encerramento com tipografia, linha e chamada animadas. Passagens de cena com deslocamento lateral, abertura circular, deslocamento vertical e dissoluções.
+
+Narração completa preservada. Duração aproximada 1min22s, vertical 720 x 1280, 30 fps. Reenquadramentos e reaproveitamento de trechos dos 40 segundos originais para acompanhar a narração completa. Não houve ampliação apresentada como ganho de resolução nativa.
+
+Ainda sem legendas. Transcrição automática local aguarda a ativação da atualização de rede do modelo de reconhecimento de fala, preparada nas configurações do ambiente. Não usar esta versão como entrega final legendada.
+
+Assinatura textual COMPORTA; não é reprodução de logotipo oficial fornecido. Motion_Comporta.ass contém os elementos gráficos editáveis e seus tempos.
