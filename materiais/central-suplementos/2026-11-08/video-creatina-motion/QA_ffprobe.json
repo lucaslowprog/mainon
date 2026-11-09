@@ -1,0 +1,36 @@
+[
+  {
+    "codec_name": "h264",
+    "width": 1080,
+    "height": 1920,
+    "r_frame_rate": "30/1",
+    "nb_frames": "240",
+    "duration": "8.000000",
+    "pix_fmt": "yuv420p",
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709",
+    "arquivo": "Central_Creatina_Motion_1080x1920_30fps.mp4",
+    "audio_codec": "aac",
+    "audio_duration": "8.000000",
+    "bytes": 6461198,
+    "layout": "TIPOGRAFIA_AMPLIADA_APROVADA"
+  },
+  {
+    "codec_name": "h264",
+    "width": 2160,
+    "height": 3840,
+    "r_frame_rate": "60/1",
+    "nb_frames": "480",
+    "duration": "8.000000",
+    "pix_fmt": "yuv420p",
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709",
+    "arquivo": "Central_Creatina_Motion_2160x3840_60fps.mp4",
+    "audio_codec": "aac",
+    "audio_duration": "8.000000",
+    "bytes": 15425607,
+    "layout": "TIPOGRAFIA_AMPLIADA_APROVADA"
+  }
+]
